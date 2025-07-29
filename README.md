@@ -56,10 +56,6 @@
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
 
-### 📊 GitHub Stats
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=kartiksethi&show_icons=true&theme=tokyonight&border_radius=10" alt="Kartik's GitHub Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kartiksethi&layout=compact&theme=tokyonight&border_radius=10" width="350"/>
-</p>
+
 
